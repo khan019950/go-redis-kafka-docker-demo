@@ -1,0 +1,8 @@
+.git
+.gitignore
+.gitmodules
+*.md
+LICENSE
+Dockerfile
+docker-compose.yml
+start.sh
