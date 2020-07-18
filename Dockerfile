@@ -32,7 +32,7 @@ RUN upx main
 FROM scratch
 
 # Copy content from base
-COPY --from=base /build/* /
+COPY --from=base /build/main /
 
 WORKDIR /
 
