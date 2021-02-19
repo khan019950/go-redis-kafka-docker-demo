@@ -14,8 +14,8 @@ import (
 	"syscall"
 	"time"
 
-	"gitlab.com/melwyn95/go-redis-kafka-demo/pkg/kafka"
-	"gitlab.com/melwyn95/go-redis-kafka-demo/pkg/redis"
+	"github.com/theboyisno-1/go-redis-kafka-docker-demo/pkg/kafka"
+	"github.com/theboyisno-1/go-redis-kafka-docker-demo/pkg/redis"
 
 	"github.com/gorilla/mux"
 )

@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/confluentinc/confluent-kafka-go/kafka"
-	"gitlab.com/melwyn95/go-redis-kafka-demo/pkg/redis"
+	"github.com/theboyisno-1/go-redis-kafka-docker-demo/pkg/redis"
 )
 
 type KafkaProducer struct {
